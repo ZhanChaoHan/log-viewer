@@ -2,4 +2,4 @@
 
 Log viewer in browser
 
-Run `com.lyrieek.logViewer.Bootstrap`
+start Run `com.lyrieek.logViewer.Bootstrap`
